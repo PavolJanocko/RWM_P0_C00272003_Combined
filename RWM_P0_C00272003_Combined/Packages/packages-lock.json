@@ -219,6 +219,18 @@
       },
       "url": "https://packages.unity.com"
     },
+    "ie.setu.reversefilter": {
+      "version": "file:ie.setu.reversefilter",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "ie.setu.sortfilter": {
+      "version": "file:ie.setu.mergefilter",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

@@ -1,9 +1,10 @@
 {
-    "name": "Tests1",
+    "name": "Tests",
     "rootNamespace": "",
     "references": [
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "UnityEditor.TestRunner",
+        "SortFilter"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

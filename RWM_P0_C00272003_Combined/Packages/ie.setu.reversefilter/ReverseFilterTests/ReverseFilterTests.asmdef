@@ -1,9 +1,10 @@
 {
-    "name": "Tests1",
+    "name": "ReverseFilterTests",
     "rootNamespace": "",
     "references": [
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "UnityEditor.TestRunner",
+        "ReverseFilter"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
