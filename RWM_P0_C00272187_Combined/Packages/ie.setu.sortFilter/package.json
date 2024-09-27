@@ -1,0 +1,7 @@
+{
+  "name": "ie.setu.sortfilter",
+  "version": "0.1.0",
+  "displayName": "mergeFilter",
+  "description": "A filter that sorts numbers.",
+  "unity":  "2022.3"
+}

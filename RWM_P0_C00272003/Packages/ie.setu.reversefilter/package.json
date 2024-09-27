@@ -1,7 +1,0 @@
-{
-  "name": "ie.setu.reversefilter",
-  "version": "0.1.0",
-  "displayName": "ReverseFilter",
-  "description": "A filter that cubes numbers.",
-  "unity":  "2022.3"
-}
